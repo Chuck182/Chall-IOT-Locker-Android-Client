@@ -25,4 +25,4 @@ The physical construction plans of the Vault and the Python server code running 
 
 ## License
 
-This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL v3 License - see the [LICENSE](LICENSE) file for details
